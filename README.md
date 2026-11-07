@@ -31,3 +31,7 @@ macOS lets only one client hold the control channel at a time, so quit BudsBar b
 Earlier community work on the protocol helped: Gadgetbridge's OPPO headphones support, QuickBuds, OnePlusBuds4Mac, oneplus_buds3_pro_python, and oneplus-buds-macos.
 
 Not affiliated with OnePlus or OPPO.
+
+## License
+
+[MIT](LICENSE)
