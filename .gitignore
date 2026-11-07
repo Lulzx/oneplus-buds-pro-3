@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+build/
+*.swp
+# compiled tool binaries
+tools/ble
+tools/sdp
+tools/rfcomm
+tools/session
+tools/reconnect
